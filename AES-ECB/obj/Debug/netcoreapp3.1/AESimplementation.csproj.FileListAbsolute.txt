@@ -1,0 +1,22 @@
+G:\dowload\AESimplementation-main\AESimplementation-main\obj\Debug\netcoreapp3.1\AESimplementation.csprojAssemblyReference.cache
+G:\dowload\AESimplementation-main\AESimplementation-main\obj\Debug\netcoreapp3.1\AESimplementation.AssemblyInfoInputs.cache
+G:\dowload\AESimplementation-main\AESimplementation-main\obj\Debug\netcoreapp3.1\AESimplementation.AssemblyInfo.cs
+G:\dowload\AESimplementation-main\AESimplementation-main\bin\Debug\netcoreapp3.1\AESimplementation.exe
+G:\dowload\AESimplementation-main\AESimplementation-main\bin\Debug\netcoreapp3.1\AESimplementation.deps.json
+G:\dowload\AESimplementation-main\AESimplementation-main\bin\Debug\netcoreapp3.1\AESimplementation.runtimeconfig.json
+G:\dowload\AESimplementation-main\AESimplementation-main\bin\Debug\netcoreapp3.1\AESimplementation.runtimeconfig.dev.json
+G:\dowload\AESimplementation-main\AESimplementation-main\bin\Debug\netcoreapp3.1\AESimplementation.dll
+G:\dowload\AESimplementation-main\AESimplementation-main\bin\Debug\netcoreapp3.1\AESimplementation.pdb
+G:\dowload\AESimplementation-main\AESimplementation-main\obj\Debug\netcoreapp3.1\AESimplementation.dll
+G:\dowload\AESimplementation-main\AESimplementation-main\obj\Debug\netcoreapp3.1\AESimplementation.pdb
+G:\dowload\tai lieu thuc hanh\AES-ECB\bin\Debug\netcoreapp3.1\AESimplementation.exe
+G:\dowload\tai lieu thuc hanh\AES-ECB\bin\Debug\netcoreapp3.1\AESimplementation.deps.json
+G:\dowload\tai lieu thuc hanh\AES-ECB\bin\Debug\netcoreapp3.1\AESimplementation.runtimeconfig.json
+G:\dowload\tai lieu thuc hanh\AES-ECB\bin\Debug\netcoreapp3.1\AESimplementation.runtimeconfig.dev.json
+G:\dowload\tai lieu thuc hanh\AES-ECB\bin\Debug\netcoreapp3.1\AESimplementation.dll
+G:\dowload\tai lieu thuc hanh\AES-ECB\bin\Debug\netcoreapp3.1\AESimplementation.pdb
+G:\dowload\tai lieu thuc hanh\AES-ECB\obj\Debug\netcoreapp3.1\AESimplementation.csprojAssemblyReference.cache
+G:\dowload\tai lieu thuc hanh\AES-ECB\obj\Debug\netcoreapp3.1\AESimplementation.AssemblyInfoInputs.cache
+G:\dowload\tai lieu thuc hanh\AES-ECB\obj\Debug\netcoreapp3.1\AESimplementation.AssemblyInfo.cs
+G:\dowload\tai lieu thuc hanh\AES-ECB\obj\Debug\netcoreapp3.1\AESimplementation.dll
+G:\dowload\tai lieu thuc hanh\AES-ECB\obj\Debug\netcoreapp3.1\AESimplementation.pdb
